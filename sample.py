@@ -3,4 +3,5 @@ def print():
 
 def write(abc):
     return (f"write {abc} ")
-print(write("this is written "))
+print(write("this is written 00"))
+
