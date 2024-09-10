@@ -1,4 +1,4 @@
-def print():
+def printt():
     return "function #DEF"
 
 def write(abc):

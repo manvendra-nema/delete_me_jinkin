@@ -7,7 +7,7 @@ class TestFunctions(unittest.TestCase):
 
     def test_print(self):
         # Test the print function
-        result = sample.print()
+        result = sample.printt()
         self.assertEqual(result, "function #DEF")
 
     def test_write(self):
