@@ -12,7 +12,7 @@ class TestFunctions(unittest.TestCase):
 
     def test_write(self):
         # Test the write function with sample input
-        result = samplewrite("this is written")
+        result = sample.write("this is written")
         self.assertEqual(result, "write this is written ")
 
 # This allows the test to run when the script is executed
